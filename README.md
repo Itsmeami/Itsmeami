@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Aman Dubey <br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning B.tech (CSE)<br>- ⚡ In my free time I explore Internet</p>
+<p align="left">I'm Aman Dubey <br><br>- 🔭 Persuing B.Tech <br>- 📚 Currently in Forth Year (CSE)<br>- ⚡ In my free time I explore Internet</p>
 
 ###
 
